@@ -10,6 +10,7 @@
 <img src="https://github.com/iXursandbek1/Netflix-Clone/assets/114641378/e43437e6-33a8-451f-829f-273b06d7d6cf" width="240" height="510">.
 <img src="https://github.com/iXursandbek1/Netflix-Clone/assets/114641378/a05deb29-9550-400f-8796-3e9d9c8a0ebd" width="240" height="510">.
 <img src="https://github.com/iXursandbek1/Netflix-Clone/assets/114641378/353be1d7-95fd-487a-895c-7f71e85db564" width="240" height="510">
+<img src="https://github.com/iXursandbek1/Netflix-Clone/assets/114641378/f3b79cdc-f415-42e7-a693-9efc0288b2f0" width="240" height="510">
 
 ---
 
